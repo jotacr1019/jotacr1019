@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="200" heigth="200"/>
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/jos%C3%A9-joaqu%C3%ADn-fern%C3%A1ndez-monge-6181a814a/">

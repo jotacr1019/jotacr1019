@@ -14,13 +14,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/4VWtqas7s7btzqhlOQ/giphy.gif" width="600" height="400"/>
 </div>
+
 ---
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer from Costa Rica.
-- 🔭 I’m currently working on a project based in NextJs.
 - 🌱 I’m currently studying 'Sofware developer' in APXSchool.
-- - 📫 How to reach me: https://img.shields.io/badge/email-jotaj19@hotmail.com-yellow
+- 🔭 I’m currently working on a project based in NextJs.
+- 📫 email: jotaj19@hotmail.com
 
 <!--
 **jotacr1019/jotacr1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

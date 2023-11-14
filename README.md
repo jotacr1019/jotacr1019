@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="www.linkedin.com/in/josé-joaquín-fernández-monge-6181a814a">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-joaqu%C3%ADn-fern%C3%A1ndez-monge-6181a814a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>

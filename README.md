@@ -1,7 +1,7 @@
-<div id="header" align="center" style="margin-bottom: 0;">
+<div id="header" align="center" style="margin-bottom: 0">
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="300" heigth="300"/>
 </div>
-<div id="badges" align="center">
+<div id="badges" align="center" style="margin-top: 0">
   <a href="https://www.linkedin.com/in/jos%C3%A9-joaqu%C3%ADn-fern%C3%A1ndez-monge-6181a814a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

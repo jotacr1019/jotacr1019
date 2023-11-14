@@ -12,6 +12,9 @@
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/4VWtqas7s7btzqhlOQ/giphy.gif" width="600" height="300"/>
+</div>
 
 <!--
 **jotacr1019/jotacr1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

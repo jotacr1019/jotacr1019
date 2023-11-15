@@ -23,7 +23,7 @@ I am a Full Stack Developer from Costa Rica.
 - 🌱 I’m currently studying 'Sofware developer' in APXSchool.
 - 🔭 I’m currently working on a project based in NextJs.
 - 📫 email: jotaj19@hotmail.com
-- 
+- :keyboard: Exercism profile: https://exercism.org/profiles/jotacr1019
 
 ---
 
@@ -62,6 +62,7 @@ I am a Full Stack Developer from Costa Rica.
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotacr1019&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **jotacr1019/jotacr1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 <div id="header" align="center" margin-bottom="0">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="380" heigth="380"/>
+  <img src="https://media.giphy.com/media/4VWtqas7s7btzqhlOQ/giphy.gif" width="380" heigth="380"/>
 </div>
 <div id="badges" align="center" style="margin-top: 0">
   <a href="https://www.linkedin.com/in/jos%C3%A9-joaqu%C3%ADn-fern%C3%A1ndez-monge-6181a814a/">
@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/4VWtqas7s7btzqhlOQ/giphy.gif" width="600" height="400"/>
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="600" height="400"/>
 </div>
 
 ---

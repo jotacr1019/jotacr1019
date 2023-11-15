@@ -17,13 +17,16 @@
 
 ---
 
+
 ### :man_technologist: About Me :
 I am a Full Stack Developer from Costa Rica.
 - 🌱 I’m currently studying 'Sofware developer' in APXSchool.
 - 🔭 I’m currently working on a project based in NextJs.
 - 📫 email: jotaj19@hotmail.com
+- 
 
 ---
+
 
 ### :hammer_and_wrench: Languages:
 <div>
@@ -54,6 +57,7 @@ I am a Full Stack Developer from Costa Rica.
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub " width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="45" height="45"/>&nbsp;
 </div>
+
 
 ---
 

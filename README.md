@@ -55,6 +55,10 @@ I am a Full Stack Developer from Costa Rica.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="45" height="45"/>&nbsp;
 </div>
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotacr1019&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **jotacr1019/jotacr1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->

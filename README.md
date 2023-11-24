@@ -2,7 +2,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="600" height="400"/>
 </div>
-
 <h1 align="center">
   Hi, I'm Joaquín 👋
 </h1>

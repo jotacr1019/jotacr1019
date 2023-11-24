@@ -1,11 +1,11 @@
+<h1 align="center">
+  Hi, I'm Joaquín 👋
+</h1>
 <div id="badges" align="center" style="margin-top: 0">
   <a href="https://www.linkedin.com/in/jos%C3%A9-joaqu%C3%ADn-fern%C3%A1ndez-monge-6181a814a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<h1 align="center">
-  Hi there 👋
-</h1>
 
 
 <div align="center">

@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="600" height="400"/>
+</div>
+
 <h1 align="center">
   Hi, I'm Joaquín 👋
 </h1>
@@ -5,11 +10,6 @@
   <a href="https://www.linkedin.com/in/jos%C3%A9-joaqu%C3%ADn-fern%C3%A1ndez-monge-6181a814a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="600" height="400"/>
 </div>
 
 ---

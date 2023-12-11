@@ -14,7 +14,7 @@
 ---
 
 
-### :man_technologist: About Me :
+### man_technologist: About Me :
 I am a Full Stack Developer from Costa Rica.
 - 🌱 I’m currently studying 'Sofware developer' in APXSchool.
 - 🔭 I’m currently working on a project based in NextJs.

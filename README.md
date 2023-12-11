@@ -16,7 +16,7 @@ I am a Full Stack Developer from Costa Rica.
 - 🌱 I’m currently studying 'Sofware developer' in APXSchool.
 - 🔭 I’m currently working on a project based in NextJs.
 - 📫 email: jotaj19@hotmail.com
-- :keyboard: Exercism profile: https://exercism.org/profiles/jotacr1019
+  :keyboard: Exercism profile: https://exercism.org/profiles/jotacr1019
 
 ---
 
